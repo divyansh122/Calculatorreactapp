@@ -1,0 +1,10 @@
+.input{
+  margin-left: auto;
+  margin-right:auto ;
+  margin-top: 3px;
+  display: block;
+  border-radius: 5px;
+  height: 5vh;
+  border: 2px rgb(67, 64, 64) solid;
+
+}

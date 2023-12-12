@@ -1,0 +1,9 @@
+.mainbody{
+  border:5px solid rgb(48, 47, 47) ;
+  width: 30vh;
+  height: 50vh;
+  border-radius: 10px;
+  align-items: center;
+  margin-top: 10px;
+}
+
